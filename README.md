@@ -26,7 +26,7 @@ conda activate SAM
 ## Usage
 To execute the script, run the following command in the terminal:
 ```sh
-conda activate sam-gui-tool
+python sam_guitool.py
 ```
 
 ## How to Use the GUI
