@@ -20,7 +20,7 @@ conda env create -f environment.yml
 
 3. Activate the environment:
 ```sh
-conda activate sam-gui-tool
+conda activate SAM
 ```
 
 ## Usage
