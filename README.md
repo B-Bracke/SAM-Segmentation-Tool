@@ -1,7 +1,7 @@
 # SAM Image Segmentation Tool
 This script provides a simple GUI tool for image segmentation using the SAM model locally. The tool allows the user to load an image, select a prompt mode (single point or bounding box), and then select a point or draw a bounding box on the image to generate a segmentation mask. The mask or cutout can be saved as an image file. The tool uses the SAM model to generate the segmentation mask based on the user input.
 
-![image SAM gui tool example]("./SAM gui tool.jpg")
+![image SAM gui tool example](https://raw.githubusercontent.com/B-Bracke/SAM-Segmentation-Tool/main/SAM%20gui%20tool.jpg)
 
 
 ## Installation
