@@ -30,11 +30,10 @@ python sam_guitool.py
 ```
 
 ## How to Use the GUI
-Open the Tool: Run the script to open the GUI.
-Load an Image: Click the "Open Image" button to load an image from your file system.
-Select Prompt Mode: Choose between "single point" or "bounding box" mode.
-Generate Segmentation Mask:
-For single point mode, click on the image to select a point.
-For bounding box mode, click and drag to draw a bounding box on the image.
-Save the Mask: Click the "Save Mask" button to save the generated segmentation mask as an image file.
-Save the Cutout: Click the "Save Cutout" button to save the generated segmentation cutout as an image file.
+1. Open the Tool: Run the script to open the GUI.
+2. Load an Image: Click the "Open Image" button to load an image from your file system.
+3. Select Prompt Mode: Choose between "single point" or "bounding box" mode.
+4. Generate Segmentation Mask:
+. For single point mode, click on the image to select a point.
+. For bounding box mode, click and drag to draw a bounding box on the image.
+5. Save the Mask: Click the "Save Mask" button to save the generated segmentation mask as an image file.
