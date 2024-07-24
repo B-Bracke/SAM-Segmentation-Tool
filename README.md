@@ -38,7 +38,3 @@ For single point mode, click on the image to select a point.
 For bounding box mode, click and drag to draw a bounding box on the image.
 Save the Mask: Click the "Save Mask" button to save the generated segmentation mask as an image file.
 Save the Cutout: Click the "Save Cutout" button to save the generated segmentation cutout as an image file.
-
-The GUI is designed to be user-friendly and intuitive, making it easy to perform image segmentation tasks using the SAM model.
-
-
